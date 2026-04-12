@@ -9,4 +9,3 @@ hello.exe | ansy.exe
 
  redirect std out to win32 console
  
-the color pallete is rgb not the same as ansi
